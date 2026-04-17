@@ -9,6 +9,8 @@
     tools:context=".MainActivity">
 
     <com.google.android.material.card.MaterialCardView
+        android:clickable="true"
+        android:focusable="true"
         android:layout_width="438dp"
         android:layout_height="350dp"
         android:layout_gravity="center"
@@ -91,6 +93,8 @@
     </com.google.android.material.card.MaterialCardView>
 
     <com.google.android.material.card.MaterialCardView
+        android:clickable="true"
+        android:focusable="true"
         android:layout_width="438dp"
         android:layout_height="350dp"
         android:layout_gravity="center"
